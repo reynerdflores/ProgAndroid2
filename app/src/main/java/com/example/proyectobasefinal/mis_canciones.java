@@ -45,7 +45,7 @@ public class mis_canciones extends AppCompatActivity {
         int estrella = can.getCalificacion()[opcion];
         calificacion.setRating(estrella);
 
- 
+
         resultado.setText("La opción es: " + nombre + "\nEl cantante es: " + cantante + "\nEl precio es: " + precio);
     }
 }

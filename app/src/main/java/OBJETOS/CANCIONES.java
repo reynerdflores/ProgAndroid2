@@ -6,10 +6,10 @@ import java.util.Objects;
 public class CANCIONES {
 
     private int id;
-    private String[] canciones = {"Don't start now", "Mercy", "Issues", "Toxic"};
-    private String[] cantante = {"Dua Lipa", "Shawn Mendes", "Julia Michaels", "Britney Spears"};
-    private int[] precios = {1000, 990, 1290, 830};
-    private  int[] calificacion = {4, 5, 4, 3};
+    private String[] canciones = {"Don't start now", "Mercy", "Issues", "Toxic", "Mon Amour", "Easy on me"};
+    private String[] cantante = {"Dua Lipa", "Shawn Mendes", "Julia Michaels", "Britney Spears", "Aitana", "Adele"};
+    private int[] precios = {1000, 990, 1290, 830, 840, 1420};
+    private  int[] calificacion = {4, 5, 4, 3, 4, 5};
 
     public CANCIONES ()
     {
