@@ -16,6 +16,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PROYECTOBASEFINAL">
         <activity
+            android:name=".playlyst_act"
+            android:exported="false" />
+        <activity
             android:name=".mis_canciones"
             android:exported="false" />
         <!--

@@ -57,4 +57,10 @@ public class Home_act extends AppCompatActivity {
         i.putExtras(buna);
         startActivity(i);
     }
+
+    public void playlist (View view)
+    {
+        Intent i = new Intent(this, playlyst_act.class);
+        startActivity(i);
+    }
 }
