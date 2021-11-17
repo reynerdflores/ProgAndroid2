@@ -182,7 +182,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="386dp"
                 android:layout_height="23dp"
-                android:text="CopyRight BioFit, Todos los Derechos Reservados 2022"
+                android:text="CopyRight CanCan, Todos los Derechos Reservados 2022"
                 android:textAlignment="center"
                 android:textSize="14sp"
                 app:layout_constraintBottom_toBottomOf="parent"

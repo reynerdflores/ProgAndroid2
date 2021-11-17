@@ -43,7 +43,7 @@
                 android:layout_width="257dp"
                 android:layout_height="161dp"
                 android:layout_marginTop="28dp"
-                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec condimentum ex id condimentum molestie. Aenean hendrerit at velit et dignissim. Nunc et malesuada odio. Vestibulum sit amet sodales turpis, eu pretium leo. Vivamus vulputate mauris convallis dapibus lacinia. Proin pulvinar magna nec nisi iaculis condimentum. Duis nec leo pretium, mollis eros vel, bibendum urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus et dui eleifend tincidunt."
+                android:text="CanCan es una aplicación innovadora dedicada al entretenimiento, enfocado en la industria musical. Apostamos por la innovación y por cumplir con lo que la gente necesita, nos mantenemos cambiando constantemente adaptándonos a nuevas tendencias tanto en formatos como en contenido. Para nosotros es muy importante la opinión y sugerencias por eso en caso de cualquier comentario por favor comunicarse a parter de nuestro teléfono."
                 android:textSize="12sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
